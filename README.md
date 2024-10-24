@@ -150,6 +150,10 @@ composer test
 * [Ciprian Amariei](https://github.com/acip)
 * [All Contributors](https://github.com/acip/oauth2-whatnot/contributors)
 
+## Sponsors
+[Aureus POS - The Gold Standard Of Bullion & Collectibles Software](https://www.aureuspos.com/)
+
+
 ## License
 
 The MIT License (MIT). Please see [License File](https://github.com/thephpacip/oauth2-whatnot/blob/main/LICENSE) for more information.
