@@ -15,7 +15,7 @@ class Whatnot extends AbstractProvider
 
     protected $scopes = [];
 
-    public $stagebaseUrl = 'https://stage-api.whatnot.com/seller-api';
+    public $stagebaseUrl = 'https://api.stage.whatnot.com/seller-api';
     public $liveBaseUrl = 'https://api.whatnot.com/seller-api';
 
     public function __construct(
